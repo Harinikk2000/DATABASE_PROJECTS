@@ -1,6 +1,4 @@
 # DATABASE_PROJECTS
-## Database projects on :
-
 ## 1)simple school management system ##
 ## 2)library management ##
 ## 3)shop billing system ##
